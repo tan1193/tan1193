@@ -1,7 +1,7 @@
 # 👋 Hi, I am Tan - @tan1193
 
 <div align="center">
-  <h3>What's up! 👋</h3>
+  <h3>What's up! </h3>
   <p>Welcome to my profile</p>
   <p>I'm passionate about programming and the tech that makes it possible. I am a FullStack Web-developer from Vietnam.</p>
 
@@ -11,12 +11,20 @@
 
 ### Programming Languages 🌐
 
-- Know/Using
+# Know/Using
 
-- Learning
+- Javascript
+- Angular
+- C#, Asp.net
+- SQL
+
+# Learning
+
+- Nodejs
+- .Net Core
+- Mongodb
 
 ### Tools 🛠️
 
-- Know/Using
-  [<img src="https://raw.githubusercontent.com/tan1193/tan1193/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img
-- Learning
+| [<img src="https://raw.githubusercontent.com/tan1193/tan1193/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) 
+|---
