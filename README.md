@@ -11,14 +11,14 @@
 
 ### Programming Languages 🌐
 
-# Know/Using
+##### Know/Using
 
 - Javascript
 - Angular
 - C#, Asp.net
 - SQL
 
-# Learning
+##### Learning
 
 - Nodejs
 - .Net Core
