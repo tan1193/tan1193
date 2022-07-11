@@ -15,13 +15,12 @@
 
 - Javascript
 - Angular
-- C#, Asp.net
-- SQL
+- C#, Asp.net,.Net
+- SQL, PostgreSQL
 
 ##### Learning
 
 - Nodejs
-- .Net Core
 - Mongodb
 ---
 ### Tools 🛠️
