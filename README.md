@@ -1,9 +1,9 @@
 # 👋 Hi, I am Tan - @tan1193
 
 <div align="center">
-  <h3>What's up! </h3>
+  <h3>Learn, Share and Grow ❤️ </h3>
   <p>Welcome to my profile</p>
-  <p>I'm passionate about programming and the tech that makes it possible. I am a FullStack Web-developer from Vietnam.</p>
+  <p>I'm passionate about programming and the tech that makes it possible.</p>
 
 </div>
 
