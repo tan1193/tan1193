@@ -9,7 +9,7 @@
 
 ---
 
-### Programming Languages 🌐
+### Programming Languages 
 
 ##### Know/Using
 
