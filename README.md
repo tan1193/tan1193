@@ -18,10 +18,10 @@
 - C#, Asp.net,.Net
 - SQL, PostgreSQL
 
-##### Learning
+<!-- ##### Learning
 
 - Nodejs
-- Mongodb
+- Mongodb -->
 ---
 ### Tools 🛠️
 
