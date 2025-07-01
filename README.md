@@ -4,7 +4,6 @@
   <p>Welcome to my profile</p>
   <p>I'm passionate about programming and the tech that makes it possible.</p>
     <p>
-        <a href="https://github.com/tan1193" target="_blank">🌐 GitHub</a> |
         <a href="https://www.linkedin.com/in/tan1193" target="_blank">💼 LinkedIn</a> |
         <a href="https://dev.to/tan1193" target="_blank">📝 Dev.to</a>
   </p>
