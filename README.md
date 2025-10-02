@@ -16,6 +16,6 @@ def main():
     name = "Tan"
     acknowledgements = "Software Engineer"
 
-    location = "Finland"
+    location = "Helsinki, Finland"
     emmail = "hoangtan1193@gmail.com"
 ```
